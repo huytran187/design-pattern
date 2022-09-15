@@ -1,0 +1,20 @@
+name: design-pattern
+channels:
+  - conda-forge
+dependencies:
+  - bzip2=1.0.8
+  - ca-certificates=2022.9.14
+  - libffi=3.4.2
+  - libsqlite=3.39.3
+  - libzlib=1.2.12
+  - ncurses=6.3
+  - openssl=3.0.5
+  - pip=22.2.2
+  - python=3.10.6
+  - readline=8.1.2
+  - setuptools=65.3.0
+  - tk=8.6.12
+  - tzdata=2022c
+  - wheel=0.37.1
+  - xz=5.2.6
+prefix: /opt/homebrew/Caskroom/miniforge/base/envs/design-pattern
