@@ -1,4 +1,3 @@
-name: design-pattern
 channels:
   - conda-forge
 dependencies:
@@ -17,4 +16,3 @@ dependencies:
   - tzdata=2022c
   - wheel=0.37.1
   - xz=5.2.6
-prefix: /opt/homebrew/Caskroom/miniforge/base/envs/design-pattern
